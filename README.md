@@ -108,7 +108,7 @@ The project has a separate contribution file. Please adhere to the steps listed 
 
 ## Contact
 
-You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
+You can reach me on [Twitter @AlphaDev01](https://twitter.com/AlphaDev01)
 
 ## License
 
